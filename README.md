@@ -1,7 +1,7 @@
 <h1 align="center">Davit Lezhava backend developer</h1>
 <h3 align="center">Hello, I'm a passionate backend developer from Georgia, deeply immersed in backend web development. As a self-taught developer, I'm eager to gain hands-on experience by building a variety of projects</h3>
 
-- current learning DSA and ML
+- currently learning DSA and ML
 
 - 👨‍💻 All of my projects are available at [https://github.com/Datonix-art?tab=repositories](https://github.com/Datonix-art?tab=repositories)
 
