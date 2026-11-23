@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%e1%83%93%e1%83%90%e1%83%95%e1%83%98%e1%83%97-%e1%83%9a%e1%83%94%e1%83%9f%e1%83%90%e1%83%95%e1%83%90-b0703129b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%e1%83%93%e1%83%90%e1%83%95%e1%83%98%e1%83%97-%e1%83%9a%e1%83%94%e1%83%9f%e1%83%90%e1%83%95%e1%83%90-b0703129b/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/davitlezhava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/davitlezhava" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/davitlezhavaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/davitlezhavaa/" height="30" width="40" /></a>
 </p>
 
