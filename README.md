@@ -1,21 +1,103 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Self-taught Backend and Machine Learning Engineer from Georgia, specializing in scalable backend architecture, API design, and ML model development. Proficient in building production-ready systems and continuously expanding hands-on experience through diverse, end-to-end projects integrating web technologies, databases, and machine learning pipelines.</h3>
+# David Lezhava
 
-- 🔭 I’m currently working on [Georgian chatbot](https://github.com/Datonix-art/Georgian-Chatbot)
+**Software Engineer | Full-stack & AI Engineering**
 
-- 🌱 I’m currently learning **Kubernetes, RabbitMQ, DSA**
+I build software systems and intelligent applications, with a focus on backend engineering, application architecture, and machine learning.
 
-- 👨‍💻 All of my projects are available at [https://github.com/datonix-art](https://github.com/datonix-art)
+My interests span the entire software development lifecycle — from designing backend systems and APIs to building user interfaces, working with databases, and integrating machine learning solutions.
 
-- 📫 How to reach me **davitlezhava1@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### About
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/166/342/png-transparent-flask-python-bottle-web-framework-web-application-flask-white-monochrome-shoe.png" alt="flask" width="40" height="40"/> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- Focused on full-stack development and AI engineering.
+- Interested in backend architecture, scalable applications, and system design.
+- Building practical projects to strengthen engineering fundamentals.
+- Continuously exploring machine learning, cybersecurity, and computer science.
 
+### Technical Expertise
 
+**Languages**
 
+Python · JavaScript · TypeScript · C · SQL · HTML · CSS
 
+**Backend Development**
+
+Flask · Node.js · Express.js · REST APIs · SQLAlchemy
+
+**Frontend Development**
+
+React · Next.js · Bootstrap · Sass
+
+**Databases**
+
+PostgreSQL · MySQL · SQLite · MongoDB
+
+**AI & Machine Learning**
+
+PyTorch · TensorFlow · scikit-learn · Pandas · Natural Language Processing
+
+**Infrastructure & Tools**
+
+Docker · Kubernetes · Nginx · Linux · Git · GitHub · Postman
+
+---
+
+### Selected Projects
+
+#### Georgian Chatbot
+[Repository](https://github.com/Datonix-art/Georgian-Chatbot)
+
+A Georgian-language question-answering chatbot built around a fine-tuned multilingual language model.
+
+- Fine-tuning an mT5 model for Georgian question answering.
+- Dataset preparation and preprocessing using Georgian Wikipedia.
+- Model training and evaluation with Hugging Face Transformers.
+- Flask-based application interface.
+
+**Technologies:** Python, Flask, PyTorch, Hugging Face Transformers, NLP
+
+#### E-Commerce Web Application
+[Repository](https://github.com/Datonix-art/E-Commerce-Web-App)
+
+A full-stack e-commerce application focused on implementing practical web application features.
+
+- User authentication and account management.
+- Product catalog and filtering.
+- Shopping cart and payment integration.
+- Internationalization with English and Georgian.
+- Administrative management and application security.
+
+**Technologies:** Python, Flask, SQLAlchemy, JavaScript, Docker, Stripe
+
+#### Contact Management System
+
+A command-line application developed in C to practice structured programming and core programming concepts.
+
+- Contact creation and management.
+- Searching, updating, and deleting records.
+- File-based data persistence.
+- Modular implementation using functions and structures.
+
+**Technologies:** C, File I/O, Data Structures
+
+---
+
+### Currently Exploring
+
+- Software architecture and system design.
+- Data structures and algorithms.
+- Cybersecurity and web application security.
+- Machine learning and AI systems.
+- C programming and low-level computer science fundamentals.
+- Containerization and orchestration.
+
+---
+
+### Connect
+
+[GitHub](https://github.com/Datonix-art) · [LinkedIn](https://www.linkedin.com/in/%E1%83%93%E1%83%90%E1%83%95%E1%83%98%E1%83%97-%E1%83%9A%E1%83%94%E1%83%9F%E1%83%90%E1%83%95%E1%83%90-b0703129b/) · [Email](mailto:davitlezhava1@gmail.com)
+
+---
+
+<sub>Building, learning, and engineering with purpose.</sub>
